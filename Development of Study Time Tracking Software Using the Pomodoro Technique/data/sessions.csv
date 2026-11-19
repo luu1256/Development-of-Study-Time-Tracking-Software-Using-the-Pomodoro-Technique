@@ -1,0 +1,19 @@
+session_id,user_id,task_name,duration_minutes,session_date,start_hour,status,distractions_count
+1,1,Python Final Project Report,25,2026-11-18,14,Completed,2
+2,1,HSK 2 Chinese Exam Prep,25,2026-11-18,8,Completed,2
+3,1,Cisco Packet Tracer Lab,25,2026-11-18,20,Completed,0
+4,1,Python Final Project Report,25,2026-11-17,14,Completed,0
+5,1,Oracle Database SQL Practice,25,2026-11-17,8,Failed (Tab Switch),1
+6,1,Cisco Packet Tracer Lab,25,2026-11-17,21,Completed,2
+7,1,HSK 2 Chinese Exam Prep,25,2026-11-16,8,Completed,1
+8,1,Cisco Packet Tracer Lab,25,2026-11-16,14,Completed,2
+9,1,HSK 2 Chinese Exam Prep,25,2026-11-15,8,Completed,2
+10,1,Cisco Packet Tracer Lab,25,2026-11-15,8,Failed (Tab Switch),2
+11,1,Oracle Database SQL Practice,25,2026-11-15,8,Failed (Tab Switch),0
+12,1,Oracle Database SQL Practice,25,2026-11-14,14,Completed,0
+13,1,Oracle Database SQL Practice,25,2026-11-14,8,Completed,0
+14,1,HSK 2 Chinese Exam Prep,25,2026-11-13,21,Completed,2
+15,1,HSK 2 Chinese Exam Prep,25,2026-11-13,8,Completed,2
+16,1,HSK 2 Chinese Exam Prep,25,2026-11-13,14,Completed,2
+17,1,Cisco Packet Tracer Lab,25,2026-11-12,21,Completed,2
+18,1,Python Final Project Report,25,2026-11-12,14,Completed,2
