@@ -1,0 +1,45 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head><meta charset='utf-8'><title>Báo cáo Hiệu suất FocusFlow</title>
+<style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 30px; }
+    h1 { color: #0d47a1; border-bottom: 2px solid #0d47a1; padding-bottom: 8px; font-size: 20pt; }
+    h2 { color: #1565c0; margin-top: 20px; font-size: 14pt; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #bbdefb; padding: 10px; text-align: left; }
+    th { background-color: #e3f2fd; color: #0d47a1; }
+    .box { background-color: #f5f5f5; border-left: 4px solid #1976d2; padding: 12px; margin-bottom: 15px; }
+</style>
+</head>
+<body>
+    <h1>BÁO CÁO HIỆU SUẤT HỌC TẬP FOCUSFLOW PRO</h1>
+    <p><b>Thời gian xuất báo cáo:</b> 2026-11-04 17:25:24</p>
+
+    <div class="box">
+        <h2>📊 Tổng quan Hiệu suất Học tập</h2>
+        <ul>
+            <li><b>Tổng số phiên đã khởi tạo:</b> 25 phiên</li>
+            <li><b>Số phiên hoàn thành xuất sắc:</b> 23 phiên</li>
+            <li><b>Tỷ lệ học tập thành công:</b> 92.0%</li>
+        </ul>
+    </div>
+
+    <h2>⏱️ Thống kê Thời gian theo Nhiệm vụ</h2>
+    <table>
+        <tr><th>Tên Bài học / Nhiệm vụ</th><th>Tổng thời gian (Phút)</th><th>Số phiên Pomodoro</th></tr>
+<tr><td>Báo cáo Bài tập lớn Python</td><td>150 phút</td><td>6 phiên</td></tr>
+<tr><td>Cấu hình Cisco Packet Tracer</td><td>125 phút</td><td>5 phiên</td></tr>
+<tr><td>Luyện thi HSK 2 Tiếng Trung</td><td>125 phút</td><td>5 phiên</td></tr>
+<tr><td>Đọc tài liệu CSDL Oracle</td><td>175 phút</td><td>7 phiên</td></tr>
+    </table>
+
+    <h2>🧠 Nhật ký Ý nghĩ Phân tâm (Brain Dump)</h2>
+    <ul>
+<li><b>[16:55]</b> Nộp học phí / Đóng tiền mạng</li>
+<li><b>[16:25]</b> Trả lời tin nhắn Zalo / Messenger</li>
+<li><b>[14:25]</b> Kiểm tra thông báo email lớp học</li>
+<li><b>[12:25]</b> Nhớ lướt Shopee săn sale</li>
+    </ul>
+    <hr>
+    <p><i>Báo cáo được xuất tự động bởi Phần mềm FocusFlow Pro. Có thể mở và chỉnh sửa trực tiếp trên Microsoft Word.</i></p>
+</body>
+</html>
