@@ -1,5 +1,0 @@
-task_id,user_id,task_name,is_urgent,is_important,label,is_completed
-1,1,Python Final Project Report,1,1,#Python,0
-2,1,HSK 2 Chinese Exam Prep,0,1,#Chinese,0
-3,1,Cisco Packet Tracer Lab,1,0,#Networking,0
-4,1,Oracle Database SQL Practice,0,0,#Database,1
